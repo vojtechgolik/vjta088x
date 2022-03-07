@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @vjta088x
-- 🌱 I’m currently learning Python, Java, Spring and other cool stuff 💻
+- ☕ Java
+- 🌱 I’m currently learning Python, C++, Spring Framework and other cool stuff 💻
