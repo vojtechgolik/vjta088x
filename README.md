@@ -1,4 +1,4 @@
-##👋 Hi, I’m @vjta088x
+#### 👋 Hi, I’m @vjta088x
 - ☕ Java
 - 🌱 I’m currently learning Python, C++ and other cool stuff 💻
 - 🎮 LD Jam 48 participation: https://github.com/adam077x/LD48
